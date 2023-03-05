@@ -853,7 +853,7 @@ body {
         background-image: url(../svg/menu-icon.svg);
         background-repeat: no-repeat;
         background-position: center center;
-        background-color: #000000;
+        background-color: rgba(0, 0, 0, 0);
         border: none;@media (max-width: 768px)
     }
 
